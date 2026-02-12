@@ -1,15 +1,4 @@
-Here is your GitHub-ready, polished README.md with badges, clean formatting, and recruiter appeal:
-
 📊 Customer Shopping Behavior Analysis
-
-
-
-
-
-
-
-
-
 
 📌 Overview
 
